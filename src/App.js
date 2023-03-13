@@ -1,7 +1,7 @@
 import React, { Component } from "react"
 import logo from "./logo.svg"
 import "./App.css"
-import drake from "./drake.png"
+import drake from "./20552-2-drake-face-transparent.png"
 
 class LambdaDemo extends Component {
   constructor(props) {
